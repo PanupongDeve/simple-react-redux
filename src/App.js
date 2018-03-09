@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Repos from './components/Repos/Repos'
+import Header from './components/Header/header';
 
 class App extends Component {
   render() {
-    return <Repos />
+    return <Header />
   }
 }
 
